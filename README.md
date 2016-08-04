@@ -1,4 +1,4 @@
-# neighbours
+# Transitions
 
 The project uses [Midje](https://github.com/marick/Midje/).
 
